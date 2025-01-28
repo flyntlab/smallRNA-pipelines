@@ -7,6 +7,9 @@ Linux Environment with standard Bioinformatics tools (Bowtie, Samtools, Bedtools
 
 ## Initial Data-Cleaning:
 
+### process_fastqs.sh
+Splits raw fastq RNA-seq reads into constituent files for downstream analysis.
+
 ### miRNA
 
 ### siRNA
